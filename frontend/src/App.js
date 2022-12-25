@@ -10,6 +10,7 @@ function App() {
       <Routes>
         <Route path="/" element={<Button />} />
         <Route path="/details" element={<ShowDetails />} />
+        
       </Routes>
     </div>
   );
